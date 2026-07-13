@@ -1,3 +1,6 @@
+Arquivos CSV com dados IBGE Covid 19
+    >> https://www.ibge.gov.br/estatisticas/sociais/saude/27947-divulgacao-mensal-pnadcovid2.html?edicao=28351&t=downloads
+
 arquivo 01_pnad_covid.ipynb
     >> IMPORTAÇÃO DOS ARQUIVOS CSV EM TABELAS NO BANCO DE DADOS SQL SERVER
 
